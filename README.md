@@ -1,2 +1,1 @@
 # IntelliJplugin-devrel
-# Nghia test
